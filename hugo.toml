@@ -11,3 +11,7 @@ enableRobotsTXT = true
 
 [params]
 discription = "kuonji's website"
+
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
