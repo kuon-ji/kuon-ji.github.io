@@ -1,0 +1,13 @@
+baseURL      = 'https://kuon-ji.github.io/'
+theme        = 'hugo-bearblog'
+
+title        = "kuonji's website"
+author       = 'kuonji'
+copyright    = 'Copyright © 2025, kuonji.'
+languageCode = 'en-us'
+
+enableEmoji     = true
+enableRobotsTXT = true
+
+[params]
+discription = "kuonji's website"
